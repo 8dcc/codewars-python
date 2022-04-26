@@ -1,3 +1,5 @@
+# Kata: https://www.codewars.com/kata/515decfd9dcfc23bb6000006
+
 import re
 
 def is_valid_IP(s):
